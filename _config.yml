@@ -48,7 +48,7 @@ topics:
   - name: Documentation
     web_url: https://github.com/topics/documentation
 
-  - name: Node
+  - name: Node.js
     web_url: https://github.com/topics/nodejs
 
   - name: Command Line Interface
