@@ -25,7 +25,7 @@ projects:
   exclude:
     forks: true
     projects:
-    # - repo-name
+    - sirkaushalkumar.github.io
 
 social_media:
   # behance: your_username
