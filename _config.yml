@@ -50,6 +50,7 @@ topics:
 
   - name: node.js
     web_url: https://github.com/topics/nodejs
+    image_url: https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg
 
   - name: Command Line Interface
     web_url: https://github.com/topics/cli
