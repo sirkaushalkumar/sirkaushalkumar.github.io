@@ -47,6 +47,7 @@ social_media:
 topics:
   - name: Documentation
     web_url: https://github.com/topics/documentation
+    image_url: https://static.vecteezy.com/system/resources/previews/000/357/647/large_2x/documentation-vector-icon.jpg
 
   - name: node.js
     web_url: https://github.com/topics/nodejs
@@ -54,6 +55,8 @@ topics:
 
   - name: Command Line Interface
     web_url: https://github.com/topics/cli
+    image_url: https://shmector.com/_ph/2/336231771.png
 
   - name: LaTeX
     web_url: https://github.com/topics/latex
+    image_url: https://en.wikipedia.org/wiki/LaTeX#/media/File:LaTeX_logo.svg
