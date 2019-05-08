@@ -45,9 +45,9 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Documentation
-    web_url: https://github.com/topics/documentation
-    image_url: https://static.vecteezy.com/system/resources/previews/000/357/647/large_2x/documentation-vector-icon.jpg
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
 
   - name: node.js
     web_url: https://github.com/topics/nodejs
